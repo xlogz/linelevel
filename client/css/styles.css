@@ -1123,7 +1123,7 @@ textarea{
 
 .eventInfo{
   height: 175px;
-  width: 175px;
+  width: 155px;
   overflow: auto;
   color: white;
   position: absolute;
@@ -1131,10 +1131,9 @@ textarea{
   transition: 1s;
   z-index: 2;
   font-size: 14px;
-}
-.eventInfo p{
   padding: 10px;
 }
+
 
 .eventInfo a{
   color: white;
